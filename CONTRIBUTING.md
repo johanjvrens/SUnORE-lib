@@ -4,7 +4,7 @@ The SUNoRE code snippet library is a SUNoRE-community-maintained repository and 
 
 ## Submitting a Snippet
 
-To submit a code library for inclusion in the library, please fork the repository and then submit a [pull request](http://pippinsplugins.com/submitting-your-first-pull-request/).
+To submit a code library for inclusion in the library, please fork the repository and then submit a [pull request](https://help.github.com/articles/using-pull-requests/).
 
 Guidelines for submission:
 
