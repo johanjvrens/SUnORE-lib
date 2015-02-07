@@ -1,7 +1,7 @@
-SUNoRE Code Snippet Library
+SUnORE Code Snippet Library
 ========================
 
-This is a SUNoRE-community-maintained repository of code snippets. [SUNoRE](http://sunore.co.za).
+This is a SUnORE-community-maintained repository of code snippets. [SUnORE](http://sunore.co.za).
 
 Snippets are organized into categories (folders) and each snippet is placed in its own file with a name that describes what it does.
 
@@ -17,6 +17,6 @@ If there is a snippet you are unable to find and would like to propose get writt
 
 ## Notes
 
-This is not a tutorial archive. Please see the [tutorials section](http://sunore.co.za/blog) of the SUNoRE website if you're looking for instructions on how to implement these snippets (and others).
+This is not a tutorial archive. Please see the [tutorials section](http://sunore.co.za/blog) of the SUnORE website if you're looking for instructions on how to implement these snippets (and others).
 
-These snippets come with no guarantees. Due to the constant evolution of the SUNoRE codebase, it is possible that the behavior of these snippets may change overtime. Find something broken? [Let us know](https://github.com/johanjvrens/lib/issues)!
+These snippets come with no guarantees. Due to the constant evolution of the SUnORE codebase, it is possible that the behavior of these snippets may change overtime. Find something broken? [Let us know](https://github.com/johanjvrens/lib/issues)!
